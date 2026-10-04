@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+
+    <!-- Light mode text -->
+    <color name="text_primary">#222222</color>
+    <color name="text_secondary">#555555</color>
+
+    <!-- Light mode backgrounds -->
+    <color name="background_light">#E3F2FD</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Weather backgrounds -->
+    <color name="bg_sunny">#FFF8E1</color>
+    <color name="bg_partly_cloudy">#E3F2FD</color>
+    <color name="bg_cloudy">#ECEFF1</color>
+    <color name="bg_rainy">#BBDEFB</color>
+    <color name="bg_default">#E3F2FD</color>
+
+    <!-- Buttons -->
+    <color name="button_cities">#FF9800</color>
+    <color name="button_forecast">#4CAF50</color>
+
+    <color name="text_primary_dark">#EEEEEE</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text colors in dark mode -->
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#BDBDBD</color>
+
+    <!-- Backgrounds in dark mode -->
+    <color name="background_light">#0F0F0F</color>
+    <color name="background_dark">#0F0F0F</color>
+    <color name="surface_dark">#1A1A1A</color>
+    <color name="card_background">#1A1A1A</color>
+
+    <!-- Primary colors -->
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+
+    <!-- Weather backgrounds (darker but still distinct) -->
+    <color name="bg_sunny">#FFA726</color>
+    <color name="bg_partly_cloudy">#42A5F5</color>
+    <color name="bg_cloudy">#546E7A</color>
+    <color name="bg_rainy">#29B6F6</color>
+    <color name="bg_default">#42A5F5</color>
+
+    <!-- Button colors -->
+    <color name="button_cities">#FB8C00</color>
+    <color name="button_forecast">#43A047</color>
+
+    <color name="text_primary_dark">#F5F5F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
